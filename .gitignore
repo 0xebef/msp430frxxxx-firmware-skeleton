@@ -1,0 +1,4 @@
+/*.sh
+/build/*/
+/lib/driverlib/*
+!/lib/driverlib/readme.txt
